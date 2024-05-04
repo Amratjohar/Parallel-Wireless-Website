@@ -113,6 +113,8 @@ nav {
 .logo {
   width: 200px;
   height: 60px;
+  position: absolute;
+  top: 1em;
 }
 
 nav ul {
@@ -245,9 +247,9 @@ nav ul li a button:hover {
   /* padding-top: 40px transparent; */
   display: none;
   position: absolute;
-  top: 150%;
-  left: -375%;
-  width: 94.5em;
+  top: 90%;
+  left: -369%;
+  width: 92.5em;
   min-width: 160px;
   background-color: #f0f0f0;
   border: 1px solid #ccc;
